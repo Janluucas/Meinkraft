@@ -1,0 +1,97 @@
+Copper 1,747,928 19%
+	Forestry:resources@1
+	ThermalFoundation:Ore@0		kept
+	TConstruct:GravelOre@2
+	ProjRed!Exploration:projectred.exploration.ore@3
+	TConstruct:SearedBrick@3
+	Mekanism:OreBlock@1
+
+Coal 1,685,743 19%		kept
+
+Tin 1,466,186 16%
+	ProjRed!Exploration:projectred.exploration.ore@4
+	TConstruct:SearedBrick@4
+	Forestry:resources@2
+	ThermalFoundation:Ore@1		kept
+	Mekanism:OreBlock@2
+	TConstruct:GravelOre@3
+
+Iron 890,126 9.8%		both
+	minecraft:iron_ore@0	kept
+	TConstruct:GravelOre@0	kept
+
+Fossil 874,831 9.6%		kept
+
+Lead 323,887 3.6%		
+
+Osmium 294,552 3.2%
+
+Redstone 265,264 2.9%
+
+Silver 227,512 2.5%
+	ThermalFoundation:Ore@2
+	ProjRed!Exploration:projectred.exploration.ore@5	kept
+
+Chimerite 174,984 1.9%
+
+Blue Topaz 174,259 1.9%
+
+CertusQuartz 141,817 1.6%
+
+PoorIron 134,542 1.5%
+
+Electrotine 120,789 1.3%
+
+Aluminium 101,597 1.1%	both
+	TConstruct:SearedBrick@5		kept
+	TConstruct:GravelOre@4			kept
+
+Vinteum 91,524 1.0%
+
+Gold 88,739 0.98%		both
+	minecraft:gold_ore@0	kept
+	TConstruct"GravelOre@1	kept
+
+Nickel 46,801 0.52%
+
+Apatite 43,301 0.48%
+
+Lapis 36,781 0.41%
+	minecraft:lapis_ore@0
+	Railcraft:ore@4
+
+PoorCopper 35,705 0.4%
+
+PoorLead 35,705 0.39%
+
+Diamond 32,705 0.36%
+	minecraft:diamond_ore@0
+	Railcraft:ore@2
+
+ChargedCertusQuartz 12,319 0.14%
+
+Peridot 3,772 0.04%
+
+PoorTin 3,693 0.04%
+
+Sapphire 3,618 0.04%
+	ProjRed!Exploration:projectred.exploration.ore@1
+	BiomesOPlenty:gemOre@12
+
+Platinum 2,359 0.03%
+
+Ruby 2,320 0.03%
+	ProjRed!Exploration:projectred.exploration.ore@0
+	BiomesOPlenty:gemOre@2
+
+Sulfur 965 0.01%
+
+Emerald 396 0.00%
+	Railcraft:ore@3
+	minecraft:emerald_ore@0
+
+PoorGold 359 0.00%
+
+Sunstone 207 0.00%
+
+Amber 176 0.00%

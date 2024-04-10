@@ -1,0 +1,132 @@
+﻿0,Ocean,128,Coral Reef
+1,Plains,129,Sunflower Plains
+2,Desert,130,Desert M
+3,Extreme Hills,131,Extreme Hills M
+4,Forest,132,Flower Forest
+5,Taiga,133,Taiga M
+6,Swampland,134,Swampland M
+7,River,135,Lush River
+8,Hell,136,Polar Chasm
+9,Sky,137,Spectral Garden
+10,Frozen Ocean,138,Origin Valley
+11,Frozen River,139,Arctic
+12,Ice Plains,140,IcePLains Spikes
+13,Ice Mountains,141,glacier
+14,MushroomIsland,142,Garden
+15,MushroomIsland Shore,143,Fungi Forest
+16,Beach,144,Bamboo Forest
+17,DesertHills,145,Oasis
+18,ForestHills,146,Grove
+19,TaigaHills,147,Coniferous Forest
+20,Extreme Hills,148,Shield
+21,Jungle,149,Jungle M
+22,JungleHills,150,Volcano
+23,HjungleEdge,151,JungleEdge M
+24,Deep Ocean,152,Kelp Forest
+25,Stone Beach,153,Boreal Forest
+26,Cold Beach,154,frost forest
+27,Birch Forest,155,Birch Forest M
+28,Birch Forest Hills,156,Birch Forest Hills M
+29,Roofed Forest,157,Roofed Forest M
+30,Cold Taiga,158,Cold Taiga M
+31,Cold Taiga Hills,159,Snowy Coniferous Forest
+32,Mega Taiga,160,Mega Spruce Taiga
+33,Mega Taiga Hills,161,Mega Spruce Taiga
+34,Extreme Hills+,162,Extreme Hills+ M
+35,Savanna,163,Savanna M
+36,Savanna Plateau,164,Savanna Plateau M
+37,Mesa,165,Mesa (Bruce)
+38,Mesa Plateau F,166,Mesa Plateau F M
+39,Mesa Plateau,167,Mesa Plateau M
+40,alps,168,alps forest
+41,Storage Cell (AE2),169,
+42,Twilight Lake,170,
+43,Twilight Forest,171,Dense Twilight Forest (TwilightForestVariant)
+44,Bog,172,Quagmire
+45,WitchwoodForest (AM2),173,
+46,Twilight Highlands,174,
+47,Canyon,175,Canyon Ravine
+48,Mushroom Forest (Twilight),176,Deep Mushroom Forest (Twilight)
+49,Twilight Swamp,177,
+50,Twilight Stream,178,
+51,Snowy Forest (Twilight),179,Twilight Glacier
+52,,180,
+53,Dead Forest,181,Ominous Woods
+54,Dead Swamp,182,Bayou
+55,Deciduous Forest,183,Fen
+56,Dense Forest,184,Mystic Grove
+57,Eucalyptus Forest,185,Tropical Rainforest
+58,Twilight Clearing,186,
+59,Flower Field,187,Lavender Fields
+60,Oak Savanna (Twilight),188,
+61,Firefly Forest (Twilight),189,
+62,,190,
+63,Grassland,191,Cherry Blossom Grove
+64,Dark Forest Center (Twilight),192,
+65,Heathland,193,Brushland
+66,Highland,194,Crag
+67,Jade Cliffs,195,Mountain
+68,Land of Lakes,196,Land of Lakes Marsh
+69,Highlands Center (Twilight),197,
+70,Lush Desert,198,Outback
+71,Lush Swamp,199,Wetland
+72,Dark Forest (Twilight),200,
+73,Marsh,201,Moor
+74,Meadow,202,Meadow Forest
+75,Enchanted Forest (Twilight),203,
+76,Fire Swamp (Twilight),204,
+77,Thornlands (Twilight),205,
+78,Atum,206,
+79,,207,
+80,,208,
+81,,209,
+82,Prairie,210,Shrubland
+83,Rainforest,211,Sacred Springs
+84,Redwood Forest,212,Chaparral
+85,,213,
+86,Seasonal Forest,214,Seasonal Forest Clearing
+87,,215,
+88,,216,
+89,,217,
+90,Steppe,218,Tundra
+91,Temperate Rainforest,219,Woodland
+92,Thicket,220,Sludgepit
+93,,221,
+94,,222,
+95,Wasteland,223,Silkglades
+96,,224,
+97,,225,
+98,Xeric Shrubland,226,Dry River
+99,Mangrove,227,Tropics
+100,Underground Jungle,228,
+101,Volcanic Desert,229,
+102,Subterranean Savannah (erebus),230,
+103,,231,
+104,Ulterior Outback,232,
+105,Fungal Forest,233,
+106,Submerged Swamp,234,
+107,Fields - Forest,235,
+108,Elysian Fields,236,
+109,,237,
+110,,238,
+111,Scrubland,239,Orchard
+112,,240,
+113,,241,
+114,Spruce Woods,242,Maple Woods
+115,Corrupted Sands,243,Phantasmagoric Inferno
+116,Aether Biome,244,
+117,Boneyard,245,
+118,Visceral Heap,246,Undergarden
+119,Swamplands (betweenlands),247,M
+120,Coarse Islands,248,M
+121,Deep Water Biome,249,M
+122,Patchy Islands,250,M
+123,Marsh 1,251,M
+124,Marsh 2,252,M
+125,Sludge Plains,253,M
+126,darknesslair (Fossil),254,
+127,treasure (Fossil),255,
+,,,
+,,,
+,,,
+note biomes <128 have chance of spawning subbiome with id + 128,,,
