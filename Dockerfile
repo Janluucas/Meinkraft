@@ -6,7 +6,7 @@ RUN echo "eula=true" > eula.txt
 
 FROM build as serverImage
 
-COPY src/ /minecraft/
+COPY server/ /minecraft/
 
 EXPOSE 25565
 
